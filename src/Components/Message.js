@@ -11,7 +11,7 @@ const Message = () => {
   return (
     <div className="App">
       <span>
-        Greeting:
+        Greeting: &nbsp;
         {store.text}
       </span>
     </div>
