@@ -1,46 +1,204 @@
-# Getting Started with Create React App and Redux
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-## Available Scripts
+Modify this file to match your project and remove sections that don't apply.
 
-In the project directory, you can run:
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project.
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements.
+- License
 
-### `npm start`
+After you're finished please remove all the comments and instructions!
+-->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ <!--  <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
+  <br/>
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- PROJECT DESCRIPTION. -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📖 Set up a "Hello world" project with two apps <a name="about-project"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+>This exercise Im going to create a React front-end with a Rails back-end and connect them to display a random message.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm run eject`
+### <a name="tech-stack">
+Ruby on Rails
+</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://rubygems.org/">Ruby</a></li>
+  </ul>
+</details>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://rubyonrails.org//">RoR</a></li>
+  </ul>
+</details>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-## Learn More
+<!-- Features -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Key Features <a name="key-features"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+> Our project has the following features:
+
+- **Simplicity**
+- **Clarity**
+- **Accessibility**
+<!-- - **Responsiveness**
+- **Performance** -->
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> As a developer you can clone the project and run it locally.
+
+To get a local copy up and running, follow these steps.
+
+1) Clone the repository
+2) cd into the project folder
+3) Run `bundle install` to install the required dependencies
+4) Run `rspec` to run the tests
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Ruby on Rails
+- RSpec
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
+
+
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, copay the following URL:
+
+https://github.com/diegoh40/hello-rails-react-frontend.git
+
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  rspec
+```
+<!-- AUTHORS -->
+## Live Demo
+
+[Click me]()
+
+## 👥 Authors <a name="authors"></a>
+
+👥 **Author1**
+
+👤 Diego Hernández
+- GitHub: [@diehoh40](https://github.com/diegoh40)
+- Twitter: [@Diegoart80](https://twitter.com/Diegoart80)
+- LinkedIn:[ LinkedIn](https://www.linkedin.com/in/diegoarturoh/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Controllers specs]**
+- [ ] **[Processing data in models]**
+- [ ] **[Views]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+Original design idea by Gregoire Vella.
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Give a ⭐️ if you like this project!
+
+If you like this project...
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> We would like to thank the following people:
+
+I would like to thank Microverse for the opportunity to learn and grow as a developer.
+
+## ❓ FAQ <a name="faq"></a>
+
+> If you have any questions, please contact us.
+
+## 📝 License <a name="license"></a>
+
+## License
+This project is [MIT](./MIT.md) licensed.
