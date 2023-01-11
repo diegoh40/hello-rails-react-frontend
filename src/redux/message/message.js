@@ -9,6 +9,7 @@ export const getMessageAPI = () => async (dispatch) => {
     mode: 'no-cors',
   });
   const data = await res.json();
+
   dispatch({
     type: GET_MESSAGE_API,
     data,
